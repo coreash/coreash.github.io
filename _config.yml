@@ -1,0 +1,24 @@
+title:              Seize The Day!
+email:              ksh2594@gmail.com
+description:        A Blog by coreash
+author:             SeHan Kim
+baseurl:            "/coreash.github.io"
+url:                "https://coreash.github.io"
+
+# Social Profiles
+twitter_username:   
+github_username:    
+facebook_username:  sehan.kim.79
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-49993718-2 # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
