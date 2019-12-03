@@ -32,8 +32,8 @@
           $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
           message = phone +'<br />'+ message;
           $.ajax({
-            //url: "//formspree.io/{{ site.email }}",
-            url:"//formspree.io/maynjbeb",
+            url: "//formspree.io/{{ site.email }}",
+            //url:"//formspree.io/maynjbeb",
             type: "POST",
             data: {
               name: name,
