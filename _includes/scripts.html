@@ -31,11 +31,9 @@
           $this = $("#sendMessageButton");
           $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
           $.ajax({
-            //url: "//formspree.io/{{ site.email }}",
             url: "https://formspree.io/maynjbeb",
             type: "POST",
             crossDomain:true,
-            dataType:'jsonp',
             data: {
               name: name,
               phone: phone,
@@ -43,9 +41,6 @@
               message: message
             },
             cache: false,
-            beforeSend: function (xhr) {
-                xhr.setRequestHeader('Accept', 'application/json');
-            },
             success: function () {
               // Success message
               $('#success').html("<div class='alert alert-success'>");
