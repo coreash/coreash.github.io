@@ -242,10 +242,8 @@
           $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
           $.ajax({
             //url: "//formspree.io/ksh2594@gmail.com",
-            crossOrigin: true,
             url: "https://formspree.io/maynjbeb",
             type: "POST",
-            dataType:"jsonp",
             data: {
               name: name,
               phone: phone,
