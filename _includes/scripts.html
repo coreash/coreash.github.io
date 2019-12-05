@@ -34,6 +34,8 @@
             //url: "//formspree.io/{{ site.email }}",
             url: "https://formspree.io/maynjbeb",
             type: "POST",
+            crossDomain:true,
+            dataType:'jsonp',
             data: {
               name: name,
               phone: phone,
