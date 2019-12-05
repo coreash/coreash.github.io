@@ -1,6 +1,7 @@
+name:               SeHan Kim's blog
 title:              Seize The Day!
 email:              ksh2594@gmail.com
-description:        A Blog by coreash
+description:        'Notes and thoughts from SeHan'
 author:             SeHan Kim
 baseurl:            "/coreash.github.io"
 url:                "https://coreash.github.io"
