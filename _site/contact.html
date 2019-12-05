@@ -244,6 +244,8 @@
             //url: "//formspree.io/ksh2594@gmail.com",
             url: "https://formspree.io/maynjbeb",
             type: "POST",
+            crossDomain:true,
+            dataType:'jsonp',
             data: {
               name: name,
               phone: phone,
@@ -251,6 +253,9 @@
               message: message
             },
             cache: false,
+            beforeSend: function (xhr) {
+                xhr.setRequestHeader('Accept', 'application/json');
+            },
             success: function () {
               // Success message
               $('#success').html("<div class='alert alert-success'>");
