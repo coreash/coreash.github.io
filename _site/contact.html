@@ -251,6 +251,9 @@
               message: message
             },
             cache: false,
+            beforeSend: function (xhr) {
+                xhr.setRequestHeader('Accept', 'application/json');
+            },
             success: function () {
               // Success message
               $('#success').html("<div class='alert alert-success'>");
