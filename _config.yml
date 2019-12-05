@@ -3,7 +3,7 @@ title:              Seize The Day!
 email:              ksh2594@gmail.com
 description:        'Notes and thoughts from SeHan'
 author:             SeHan Kim
-baseurl:            "/coreash.github.io"
+baseurl:            "http://coreash.github.io"
 url:                "https://coreash.github.io"
 
 # Social Profiles
