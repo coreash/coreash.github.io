@@ -3,7 +3,7 @@
   position: absolute;
   border-bottom: 1px solid $gray-200;
   background-color: white;
-  @include sans-serif-font;
+  @include nanum-gothic-sans-font;
   .navbar-brand {
     font-weight: 800;
     color: $gray-800;
@@ -17,7 +17,7 @@
   }
   .navbar-nav {
     > li.nav-item {
-      > a {
+       a {
         font-size: 12px;
         font-weight: 800;
         letter-spacing: 1px;
@@ -38,7 +38,7 @@
     }
     .navbar-nav {
       > li.nav-item {
-        > a {
+          a {
           padding: 10px 20px;
           color: $white;
           &:focus,
@@ -78,7 +78,7 @@
       }
       .navbar-nav {
         > li.nav-item {
-          > a {
+           a {
             color: $gray-900;
             &:focus,
             &:hover {

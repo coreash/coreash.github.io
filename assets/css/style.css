@@ -1,0 +1,23 @@
+.hidden{
+    display:none !important;
+}
+.about-history span{
+    display:inline-block;width:100px;margin-right:10px;
+}
+.worked-history .worked-list span{
+    display:inline-block;padding:3px 7px;
+    font-size:.5em;
+}
+.worked-history .worked-list span.front-end{
+    background-color:paleturquoise;
+}
+.worked-history .worked-list span.back-end{
+    background-color:palegoldenrod;
+}
+.nav-item .cate{display:none;}
+.nav-item:hover .cate{
+    position:absolute;display:block;
+}
+.nav-item:hover .cate li{
+    list-style:none;
+}

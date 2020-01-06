@@ -63,6 +63,6 @@
 @mixin serif-font() {
   font-family: 'Lora', 'Times New Roman', serif;
 }
-@mixin sans-serif-font() {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+@mixin nanum-gothic-sans-font() {
+  font-family: 'Nanum Gothic', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
