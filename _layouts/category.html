@@ -1,18 +1,40 @@
 ---
 layout: default
 ---
-<ul class="posts-list">
-  
-  {% assign category = page.category | default: page.title %}
-  {% for post in site.categories[category] %}
-    <li>
-      <h3>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-        </a>
-        <small>{{ post.date | date_to_string }}</small>
-      </h3>
-    </li>
-  {% endfor %}
-  
-</ul>
+
+  <header class="masthead" style="background-image: url('/img/bg-post.jpg')">
+
+    <div class="overlay"></div>
+    <div class="container">
+
+      <div class="row">
+        
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+              <h1>{{page.title}}</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+
+        {% assign category = page.category | default: page.title %}
+        {% for post in site.categories[category] %}
+          <li>
+            <h3>
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                {{ post.title }}
+              </a>
+              <small>{{ post.date | date_to_string }}</small>
+            </h3>
+          </li>
+        {% endfor %}
+
+        </div>
+      </div>
+    </div>
+  </div>

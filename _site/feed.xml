@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-07T07:20:45+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Seize The Day!</title><subtitle>여행, 세계여행, 바둑, 개발, 일상, 생각, trip, travel, baduk, badook, go, development, life, life style, thinking </subtitle><author><name>또치</name></author><entry><title type="html">2020년 여행 준비</title><link href="http://localhost:4000/travel/2019/12/12/payFor2020.html" rel="alternate" type="text/html" title="2020년 여행 준비" /><published>2019-12-12T00:15:00+09:00</published><updated>2019-12-12T00:15:00+09:00</updated><id>http://localhost:4000/travel/2019/12/12/payFor2020</id><content type="html" xml:base="http://localhost:4000/travel/2019/12/12/payFor2020.html">&lt;h2&gt;차량 관련&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-30T22:11:46+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Seize The Day!</title><subtitle>여행, 세계여행, 바둑, 개발, 일상, 생각, trip, travel, baduk, badook, go, development, life, life style, thinking </subtitle><author><name>또치</name></author><entry><title type="html">2020년 여행 준비</title><link href="http://localhost:4000/travel/2019/12/12/payFor2020.html" rel="alternate" type="text/html" title="2020년 여행 준비" /><published>2019-12-12T00:15:00+09:00</published><updated>2019-12-12T00:15:00+09:00</updated><id>http://localhost:4000/travel/2019/12/12/payFor2020</id><content type="html" xml:base="http://localhost:4000/travel/2019/12/12/payFor2020.html">&lt;h2&gt;차량 관련&lt;/h2&gt;
 &lt;ul&gt;
     &lt;li&gt;푸조 리스
         &lt;span&gt;계약금 100,000 WON&lt;/span&gt;
@@ -10,29 +10,12 @@
         &lt;span&gt;블라디-이르쿠츠크 5,667.70 루블*2&lt;/span&gt;
         &lt;span&gt;이르쿠츠크-모스크바&lt;/span&gt;
     &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>또치</name></author><category term="travel" /><category term="trip" /><category term="plan" /><category term="pay" /><summary type="html">차량 관련 푸조 리스 계약금 100,000 WON ACSI 멤버십 구매(유로라이프 구매대행) 13.95 유로 시베리아횡단열차 블라디-이르쿠츠크 5,667.70 루블*2 이르쿠츠크-모스크바</summary></entry><entry><title type="html">테스트</title><link href="http://localhost:4000/baduk/2019/12/03/start-blug.html" rel="alternate" type="text/html" title="테스트" /><published>2019-12-03T13:48:13+09:00</published><updated>2019-12-03T13:48:13+09:00</updated><id>http://localhost:4000/baduk/2019/12/03/start-blug</id><content type="html" xml:base="http://localhost:4000/baduk/2019/12/03/start-blug.html">&lt;p&gt;새로운 블로그&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>또치</name></author><category term="travel" /><category term="trip" /><category term="plan" /><category term="pay" /><summary type="html">차량 관련 푸조 리스 계약금 100,000 WON ACSI 멤버십 구매(유로라이프 구매대행) 13.95 유로 시베리아횡단열차 블라디-이르쿠츠크 5,667.70 루블*2 이르쿠츠크-모스크바</summary></entry><entry><title type="html">테스트</title><link href="http://localhost:4000/baduk/bridge/2019/12/03/start-blug.html" rel="alternate" type="text/html" title="테스트" /><published>2019-12-03T13:48:13+09:00</published><updated>2019-12-03T13:48:13+09:00</updated><id>http://localhost:4000/baduk/bridge/2019/12/03/start-blug</id><content type="html" xml:base="http://localhost:4000/baduk/bridge/2019/12/03/start-blug.html">&lt;p&gt;새로운 블로그&lt;/p&gt;
 
 &lt;p&gt;잘 되는지 테스트&lt;/p&gt;
 
 &lt;h2&gt;Hello World&lt;/h2&gt;
-&lt;!--
-믿음에 대한 답변 이건 그냥 드릴 말씀이 없다. 무슨 말을 해도 핑계거리 밖에 되지 않는다. 사장님 뿐만 아니라 사모님께도 특히 죄송하다.
-    정말 내 부모님보다도 더 신경써주시고 아껴주신 것도 알고 있다. 
-    그래서 처음 그만두고 싶다는 생각을 했을 때에도 좀만 더 해보자. 일이라도 내가 할 수 있는 것만큼 해보자 라는 생각으로 버텼다.
-    모든 것을 다 차단하고 일만 했다. 그렇게 몇 년이 지났는데. 지금은 그때와 상황이 좀 다른 것 같다. 
-    버티는 것이 중요한게 아닌 것 같다는 생각이 든다.
-    사장님과 사모님께도 못할 짓인것같고, 나한테는 물론 집사람에게도 떳떳하지 못하게 되는 것 같다.
-    사람과의 관계도 그렇지만 일적인 측면에서도 회사가 원하는 인재상과 나는 다른 것 같고(멀티플레이어, 개인적인 것보다 공적인 것을 우선), 
-최악의 상황. 힘들게 다닌다고 해서 그런 상황이 생길 정도면 차라리 빨리 겪는 것이 낫다.
-계획. 없다. 모든 가능성을 다 열어두고 다닐거다. 다시 바둑을 가르칠 수도 있고, 개발을 다시 할 수도 있고. 지금은 모르겠다. 다니다가 내 마음이 이끄는 곳으로 가겠다.
-도피아니냐. 맞다. 도피라고 보는 것이 맞는 것 같다. 하지만 그것이 꼭 나쁜것만은 아니잖아. 하기에 따라서 재도약의 발판이 될 수도 있다고 생각. 
-    뭔가를 얻고 돌아온다면 발판이 될 것이고, 그냥 세월만 보내고 온다면 진정한 일시적인 도피가 될 것이고.
-꼭 이방법 밖에 없느냐. 내가 나를 망치는 것 같다. 물론 다른 방법도 많이 있겠지. 
-    나도 내가 살면서 지금처럼 밑바닥이라고 생각해 본적은 없었어. 아내를 얻은 것 말고는 모든 것이 엉망인 것 같아. 
-    특히 회사에서 내가 하고다니는 행동을 제3자의 입장에서 봐도 되게 한심하고 멍청해보여. 그냥 찐따같음.
-    그런데 어쩔 수 없다. 불편하기 때문에.
-    그런데 나로 인해 피해보는 사람들이 있기때문에 최대한 열심히 하려고는 하는데 그렇다보니 일하는 것이 재미없고 힘들어.
---&gt;
+
 2020 공부할 목록
 vanilla JS
 python
@@ -40,4 +23,4 @@ Djanggo
 react
 react-native
 electron
-graph QL</content><author><name>또치</name></author><category term="baduk" /><category term="java" /><category term="nodejs" /><category term="python" /><category term="rabbitmq" /><category term="software" /><summary type="html">새로운 블로그</summary></entry></feed>
+graph QL</content><author><name>또치</name></author><category term="java" /><category term="nodejs" /><category term="python" /><category term="rabbitmq" /><category term="software" /><summary type="html">새로운 블로그</summary></entry></feed>
