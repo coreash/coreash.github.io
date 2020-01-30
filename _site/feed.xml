@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-30T22:11:46+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Seize The Day!</title><subtitle>여행, 세계여행, 바둑, 개발, 일상, 생각, trip, travel, baduk, badook, go, development, life, life style, thinking </subtitle><author><name>또치</name></author><entry><title type="html">2020년 여행 준비</title><link href="http://localhost:4000/travel/2019/12/12/payFor2020.html" rel="alternate" type="text/html" title="2020년 여행 준비" /><published>2019-12-12T00:15:00+09:00</published><updated>2019-12-12T00:15:00+09:00</updated><id>http://localhost:4000/travel/2019/12/12/payFor2020</id><content type="html" xml:base="http://localhost:4000/travel/2019/12/12/payFor2020.html">&lt;h2&gt;차량 관련&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-30T22:50:43+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Seize The Day!</title><subtitle>여행, 세계여행, 바둑, 개발, 일상, 생각, trip, travel, baduk, badook, go, development, life, life style, thinking </subtitle><author><name>또치</name></author><entry><title type="html">2020년 여행 준비</title><link href="http://localhost:4000/travel/2019/12/12/payFor2020.html" rel="alternate" type="text/html" title="2020년 여행 준비" /><published>2019-12-12T00:15:00+09:00</published><updated>2019-12-12T00:15:00+09:00</updated><id>http://localhost:4000/travel/2019/12/12/payFor2020</id><content type="html" xml:base="http://localhost:4000/travel/2019/12/12/payFor2020.html">&lt;h2&gt;차량 관련&lt;/h2&gt;
 &lt;ul&gt;
     &lt;li&gt;푸조 리스
         &lt;span&gt;계약금 100,000 WON&lt;/span&gt;
@@ -10,17 +10,14 @@
         &lt;span&gt;블라디-이르쿠츠크 5,667.70 루블*2&lt;/span&gt;
         &lt;span&gt;이르쿠츠크-모스크바&lt;/span&gt;
     &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>또치</name></author><category term="travel" /><category term="trip" /><category term="plan" /><category term="pay" /><summary type="html">차량 관련 푸조 리스 계약금 100,000 WON ACSI 멤버십 구매(유로라이프 구매대행) 13.95 유로 시베리아횡단열차 블라디-이르쿠츠크 5,667.70 루블*2 이르쿠츠크-모스크바</summary></entry><entry><title type="html">테스트</title><link href="http://localhost:4000/baduk/bridge/2019/12/03/start-blug.html" rel="alternate" type="text/html" title="테스트" /><published>2019-12-03T13:48:13+09:00</published><updated>2019-12-03T13:48:13+09:00</updated><id>http://localhost:4000/baduk/bridge/2019/12/03/start-blug</id><content type="html" xml:base="http://localhost:4000/baduk/bridge/2019/12/03/start-blug.html">&lt;p&gt;새로운 블로그&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>또치</name></author><category term="travel" /><category term="trip" /><category term="plan" /><category term="pay" /><summary type="html">차량 관련 푸조 리스 계약금 100,000 WON ACSI 멤버십 구매(유로라이프 구매대행) 13.95 유로 시베리아횡단열차 블라디-이르쿠츠크 5,667.70 루블*2 이르쿠츠크-모스크바</summary></entry><entry><title type="html">2020년 공부할 목록</title><link href="http://localhost:4000/note/2019/12/03/start-blug.html" rel="alternate" type="text/html" title="2020년 공부할 목록" /><published>2019-12-03T13:48:13+09:00</published><updated>2019-12-03T13:48:13+09:00</updated><id>http://localhost:4000/note/2019/12/03/start-blug</id><content type="html" xml:base="http://localhost:4000/note/2019/12/03/start-blug.html">&lt;p&gt;2020년도에 공부할 목록&lt;/p&gt;
 
-&lt;p&gt;잘 되는지 테스트&lt;/p&gt;
-
-&lt;h2&gt;Hello World&lt;/h2&gt;
-
-2020 공부할 목록
-vanilla JS
-python
-Djanggo
-react
-react-native
-electron
-graph QL</content><author><name>또치</name></author><category term="java" /><category term="nodejs" /><category term="python" /><category term="rabbitmq" /><category term="software" /><summary type="html">새로운 블로그</summary></entry></feed>
+&lt;ul&gt;
+    &lt;li&gt;vanilla JS&lt;/li&gt;
+    &lt;li&gt;python&lt;/li&gt;
+    &lt;li&gt;Djanggo&lt;/li&gt;
+    &lt;li&gt;react&lt;/li&gt;
+    &lt;li&gt;react-native&lt;/li&gt;
+    &lt;li&gt;electron&lt;/li&gt;
+    &lt;li&gt;graph QL&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>또치</name></author><category term="thinking" /><summary type="html">2020년도에 공부할 목록</summary></entry></feed>

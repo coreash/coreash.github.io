@@ -23,8 +23,8 @@ comments: true
               on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
               content=page.content %}
             </span>
-            <p class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</p>
-            <!--{% if page.comments %}<p><a href="{{ site.url }}{{ page.url }}#disqus_thread">Comments</a></p>{% endif %}-->
+            <!--<p class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &nbsp; {% endunless %}{% endfor %}</p>-->
+            <p class="entry-tags">{% for tag in page.tags %}<a href="javascript:void(0);" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &nbsp; {% endunless %}{% endfor %}</p>
           </div>
         </div>
       </div>

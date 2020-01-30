@@ -21,3 +21,15 @@
 .nav-item:hover .cate li{
     list-style:none;
 }
+.post-heading .entry-tags a{
+    display:inline-block;padding:3px 7px;
+    font-size:12px;text-decoration: none;border:1px solid #fff;color:#fff;
+}
+.post-preview .tags{
+    padding-left:5px;
+}
+.post-preview .tags li{
+    display:inline-block;padding:3px 7px;
+    background-color:#888;
+    font-size:12px;color:#fff;
+}
