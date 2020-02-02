@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<header class="masthead" style="background-image: url('/img/bg-post.jpg')">
+
+    <div class="overlay"></div>
+    <div class="container">
+
+      <div class="row">
+        
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="sub-heading">
+              <h1>Archives by tag</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+</header>
+
+<article class="home">
+    <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+            {% for tag in site.tags%}
+            <div style="margin-bottom: 50px;">
+                {% capture tag_name %}{{tag|first|slugize}}{% endcapture %}
+                <div id="{{ tag_name }}"></div>
+                <h4 class="category-head">* {{ tag_name }}</h4>
+                <ul class="post-archives">
+                {% for post in site.tags[tag_name] %}
+                  <li style="margin-left: 20px;">
+                      <span class="post-meta">
+                        {{ post.date | date: "%b %-d, %Y" }}
+                        {% if post.categories != empty or post.tags != empty %}
+                          <a href="{{site.baseurl}}/category/{{post.categories}}.html">{{post.categories}}</a>
+                        {% endif %}
+                        {% if post.external-url %}
+                          • <a href="{{ post.url | relative_url }}">Permalink</a>
+                        {% endif %}
+                      </span>
+              
+                      <h2>
+                        {% if post.external-url %}
+                          <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
+                        {% else %}
+                          <a class="post-link" href="{{ post.url | relative_url }}"{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ post.title | escape }}</a>
+                        {% endif %}
+                      </h2>
+                    </li>
+                    
+                  {% endfor %}
+                  </ul>
+              </div>
+              
+              {% endfor %}
+        </div>    
+    </div>
+   
+  </article>

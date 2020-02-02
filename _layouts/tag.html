@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<header class="masthead" style="background-image: url('/img/bg-post.jpg')">
+
+    <div class="overlay"></div>
+    <div class="container">
+
+      <div class="row">
+        
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="sub-heading">
+              <h1>{{page.title}}</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+</header>
+
+<article class="tag">
+    <div>
+        <div>
+            {% include tag_cloud.html %}
+        </div>  
+
+        <div>
+            {%  for tag in site.tags %}
+                <!-- tag_name 변수 지정: 태그명은 소문자화(slugize) 한다 -->
+                {% capture tag_name %}{{tag|first|slugize}}{% endcapture %}
+                <!-- tag_size 변수 지정-->
+                {% capture tag_size %}{{tag|last|size}}{% endcapture %}
+                <!-- font_size 변수 지정: 태그숫자/전체태그숫자 * 100 + 50 -->
+                {% capture font_size %}{{tag_size | times: site.tags.size | divided_by:site.tags.size | plus: 14 }}{% endcapture %}
+
+                <div class="tagname">
+                    <a href="/tags/archives#{{tag_name}}" style="font-size:{{font_size}}px">{{ tag_name }}</a>
+                </div>
+            {% endfor %}
+        </div> 
+    </div>
+</article>
