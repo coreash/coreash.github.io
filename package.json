@@ -27,7 +27,9 @@
     },
     "dependencies": {
         "bootstrap": "4.3.1",
+        "bundler": "^0.8.0",
         "font-awesome": "4.7.0",
+        "jekyll": "^3.0.0-beta1",
         "jquery": "3.4.1",
         "startbootstrap-clean-blog": "5.0.8"
     },
